@@ -1,0 +1,96 @@
+@import url('https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css');
+
+.bgstyle {
+  background-color: black;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+
+}
+
+.yellowtext {
+  color: #FDC029;
+}
+
+.pro-img {
+  width: 300px;
+  height: 300px;
+
+}
+
+.sign-img {
+  width: 100px;
+  height: 90px;
+}
+
+.left-col {
+  padding-left: 100px;
+}
+
+.up-col {
+  padding-top: 20px;
+}
+
+.top-padding {
+  padding-top: 25px;
+}
+
+.vl {
+  border-left: 10px double #FDC029;
+  height: 300px;
+}
+
+.hl {
+  border-bottom: 6px solid #FDC029;
+  width: 200px;
+  padding-left: 100px;
+
+}
+
+.container {
+  background-color: #FDC029;
+  border-radius: 40px;
+  padding: 5px;
+  margin: 70px;
+  width: 350px;
+  height: 300px;
+  color: black;
+}
+
+.hl-pr {
+  border: 10px solid black;
+  border-radius: 20px;
+  height: 150px;
+}
+
+.mt-50 {
+
+  margin-top: 50px;
+}
+
+.mt-100 {
+
+  margin-top: 130px;
+
+}
+
+.about-me {
+
+  height: 80vh;
+}
+
+/* Porjects and Awards */
+.vehicle-btn {
+  padding-left: 100px;
+
+}
+
+.medi-btn {
+
+  padding-left: 80px;
+}
+
+/* contact me*/
+.contM {
+  height: 150px;
+}
